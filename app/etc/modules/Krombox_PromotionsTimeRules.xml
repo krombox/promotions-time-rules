@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Krombox_PromotionsTimeRules>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Rule />
+                <Mage_CatalogRule />
+                <Mage_SalesRule />                
+            </depends>
+        </Krombox_PromotionsTimeRules>
+    </modules>
+</config>
